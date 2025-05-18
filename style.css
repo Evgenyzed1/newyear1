@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: crimson;
+}
+
+img{
+    width: 250px;
+    height: 400px;
+    border: solid red 10px;
+}
+
+a{
+    text-decoration: solid;
+    border-radius: 30px  ;
+    background-color: brown;
+    padding: 10px;
+    margin: 90px;
+    color: aliceblue;
+}
+
+h2{
+    background-color: darkred;
+    color: white;
+}
+
+p{
+    color: black;
+}
+
+footer p{
+    color: white;
+    background-color: brown;
+}
